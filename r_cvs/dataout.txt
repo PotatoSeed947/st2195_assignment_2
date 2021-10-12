@@ -1,0 +1,2 @@
+read.csv("cars_csv.csv", header = TRUE, sep = ",")
+savehistory("dataout.txt")
